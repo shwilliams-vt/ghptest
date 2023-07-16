@@ -1,1 +1,1 @@
-document.body.innerText = process.env.TEST_PHRASE
+document.body.innerText = env.TEST_PHRASE
