@@ -1,1 +1,1 @@
-body.innerText = env.testPhrase;
+body.innerText = env.TEST_PHRASE;
